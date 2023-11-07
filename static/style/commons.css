@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Plus+Jakarta+Sans:wght@500&family=REM:wght@200;500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root{
+    --bg-color: #e5ccac;
+    --title:'REM', sans-serif;
+}
